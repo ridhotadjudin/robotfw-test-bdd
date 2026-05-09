@@ -2,6 +2,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BDD](https://img.shields.io/badge/BDD-Given%2FWhen%2FThen-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 # 🤖 Robot Framework BDD — QMA Daily Tracker
 
@@ -162,6 +163,12 @@ Open `report.html` in any browser to review results:
 ```bash
 start results/report.html
 ```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
