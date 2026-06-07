@@ -1,0 +1,19 @@
+# Robot Framework output
+log.html
+output.xml
+report.html
+
+# Screenshots
+selenium-screenshot-*.png
+*.png
+
+# IDE
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
